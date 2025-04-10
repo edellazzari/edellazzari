@@ -9,8 +9,8 @@
 
 ###
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="display: flex; align-items: center;">
+<div style="display: flex; justify-content: space-between;">
+  <div style="display: flex;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="30" alt="java logo" />
@@ -23,7 +23,7 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   </div>
-  <div style="display: flex; gap: 10px;">
+  <div style="display: flex;">
     <a href="https://www.instagram.com/emerdellazzari" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
     </a>
